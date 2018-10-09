@@ -1,8 +1,7 @@
 # github
 
 1. ssh-keygen 回车回车回车
-/.ssh.cat
-cat id_rsa.pub
+2.cat ~/.ssh/id_rsa.pub
 1. cat ~/.ssh/id_rsa.pub past it into https://github.com/settings/keys 新增ssh-key
 1. git config --global push.default simple
 1. git config --global user.email "13231533164@163.com"
